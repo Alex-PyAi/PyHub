@@ -1,5 +1,3 @@
-Voici le `README.md` final pour votre projet, intégrant Docker, Kubernetes, et le côté plateforme/hub de connexion, avec un accent sur Python et l'IA.
-
 # 🚀 PyHub: Your AI & Data Science Platform
 
 Bienvenue sur **PyHub**, une plateforme centralisée qui connecte diverses applications et services autour de l'IA, du développement en Python, et de la science des données. Ce projet est conçu pour démontrer mes compétences en développement logiciel, intégration d'outils de data science, et déploiement d'applications sur un cluster Kubernetes.
